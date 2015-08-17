@@ -1,0 +1,25 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+	new file:   .classpath
+	new file:   .project
+	new file:   .settings/org.eclipse.jdt.core.prefs
+	new file:   Documents/mid-test-delimiter.csv
+	new file:   Documents/mid-test-tokenError.csv
+	new file:   Documents/mid-test.csv
+	new file:   Documents/readme.txt
+	new file:   bin/andrews/marcus/recWorks/CreditCard.class
+	new file:   bin/andrews/marcus/recWorks/ScanCsv.class
+	new file:   bin/andrews/marcus/recWorks/test/CreditCardTest.class
+	new file:   bin/andrews/marcus/recWorks/test/ScanCsvTest.class
+	new file:   src/andrews/marcus/recWorks/CreditCard.java
+	new file:   src/andrews/marcus/recWorks/ScanCsv.java
+	new file:   src/andrews/marcus/recWorks/test/CreditCardTest.java
+	new file:   src/andrews/marcus/recWorks/test/ScanCsvTest.java
+#
+
